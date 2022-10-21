@@ -1,2 +1,2 @@
 # liliquid.github.io
-个人站点残酷
+个人站点仓库
